@@ -1,0 +1,27 @@
+<html>
+<head>
+<title>Catphotoapp</title>
+</head>
+<body>
+<h1>CatPhotoApp</h1>
+<h2>Cat Photos</h2>
+<p>See more <a href="https://stock.adobe.com/uk/search?k=cat">cat photos</a> in a gallery</p>
+<img src = "cat.avif"  widht="400" height="300"> </img>
+<h2> Cat Lists </h2>
+<h3> Things Cats love: </h3>
+<p><ul><li>cat nip</li>
+<li>laser pointer</li>
+<li>lasagna</li></ul></p>
+
+<img src = "lasgna.jpg" width="400" height="300" alt ="cats love lasgana"> </img>
+<h2> Top 3 things cats hate </h2>
+<ol>
+<li> Flea treatment </li>
+<li> Thunder </li>
+<li> Other cats </li>
+</ol>
+
+
+
+
+</body>
